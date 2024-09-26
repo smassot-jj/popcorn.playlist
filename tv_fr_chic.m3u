@@ -2,6 +2,7 @@
 https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv_udp_fr.m3u
 #EXTINF:-1 tvg-id="webTv",WebTv
 https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv-fr_fr.m3u
-
+#EXTINF:-1 tvg-id="PlutoTv",PlutoTv
+https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv_pluto_fr.m3u
 
 
