@@ -1,8 +1,12 @@
+#EXTINF:-1 tvg-id="20MinutesTV.fr",20 Minutes TV
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 tvg-id="A12TV.fr",A12 TV (720p)
+https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 #EXTINF:-1 tvg-id="udpTv",UDPTv
 #https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv_udp_fr.m3u
 #EXTINF:-1 tvg-id="webTv",WebTv
-https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv-fr_fr.m3u
+#https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv-fr_fr.m3u
 #EXTINF:-1 tvg-id="PlutoTv",PlutoTv
-https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv_pluto_fr.m3u
+#https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv_pluto_fr.m3u
 
 
