@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="udpTv",UDPTv
-https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv_udp_fr.m3u
+#https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv_udp_fr.m3u
 #EXTINF:-1 tvg-id="webTv",WebTv
 https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv-fr_fr.m3u
 #EXTINF:-1 tvg-id="PlutoTv",PlutoTv
