@@ -1,0 +1,65 @@
+#EXTM3U	
+#EXTINF:-1 TVG-ID="la-une-be" TVG_NAME="La Une"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/la-une-be.png" TVG-GROUP="Francophone" ,La Une
+udp://@239.255.1.1:1234	
+#EXTINF:-1 TVG-ID="tipik-be" TVG_NAME="Tipik"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/tipik-be.png" TVG-GROUP="Francophone" ,Tipik
+udp://@239.255.1.2:1234	
+#EXTINF:-1 TVG-ID="la-trois-be" TVG_NAME="La Trois"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/la-trois-be.png" TVG-GROUP="Francophone" ,La Trois
+udp://@239.255.1.14:1234	
+#EXTINF:-1 TVG-ID="rtl-tvi-be" TVG_NAME="RTL TVI"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/rtl-tvi-be.png" TVG-GROUP="Francophone" ,RTL TVI
+udp://@239.255.1.6:1234	
+#EXTINF:-1 TVG-ID="plug-rtl-be" TVG_NAME="Plug RTL"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/plug-rtl-be.png" TVG-GROUP="Francophone" ,Plug RTL
+udp://@239.255.1.11:1234	
+#EXTINF:-1 TVG-ID="club-rtl-be" TVG_NAME="Club RTL"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/club-rtl-be.png" TVG-GROUP="Francophone" ,Club RTL
+udp://@239.255.1.7:1234	
+#EXTINF:-1 TVG-ID="tf1-fr" TVG_NAME="TF1"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/tf1-fr.png" TVG-GROUP="Francophone" ,TF1
+udp://@239.255.1.3:1234	
+#EXTINF:-1 TVG-ID="france2-fr" TVG_NAME="France 2"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/france2-fr.png" TVG-GROUP="Francophone" ,France 2
+udp://@239.255.1.4:1234	
+#EXTINF:-1 TVG-ID="france3-fr" TVG_NAME="France 3"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/france3-fr.png" TVG-GROUP="Francophone" ,France 3
+udp://@239.255.1.5:1234	
+#EXTINF:-1 TVG-ID="france4-fr" TVG_NAME="France 4"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/france4-fr.png" TVG-GROUP="Francophone" ,France 4
+udp://@239.255.1.29:1234	
+#EXTINF:-1 TVG-ID="france5-fr" TVG_NAME="France 5"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/france5-fr.png" TVG-GROUP="Francophone" ,France 5
+udp://@239.255.1.33:1234	
+#EXTINF:-1 TVG-ID="arte-belgique-be" TVG_NAME="Arte Belgique"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/arte-belgique-be.png" TVG-GROUP="Francophone" ,Arte Belgique
+udp://@239.255.1.36:1234	
+#EXTINF:-1 TVG-ID="tv5-monde-fr" TVG_NAME="TV5 Monde"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/tv5-monde-fr.png" TVG-GROUP="Francophone" ,TV5 Monde
+udp://@239.255.1.30:1234	
+#EXTINF:-1 TVG-ID="rtc-tele-liege-be" TVG_NAME="RTC"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/rtc-tele-liege-be.png" TVG-GROUP="Francophone" ,RTC
+udp://@239.255.1.40:1234	
+#EXTINF:-1 TVG-ID="ab-xplore-be" TVG_NAME="ABXplore"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/ab-xplore-be.png" TVG-GROUP="Francophone" ,ABXplore
+udp://@239.255.1.8:1234	
+#EXTINF:-1 TVG-ID="ln24-be" TVG_NAME="LN24"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/ln24-be.png" TVG-GROUP="Francophone" ,LN24
+udp://@239.255.1.18:1234	
+#EXTINF:-1 TVG-ID="gulli-fr" TVG_NAME="Gulli"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/gulli-fr.png" TVG-GROUP="Francophone" ,Gulli
+udp://@239.255.1.39:1234	
+#EXTINF:-1 TVG-ID="disney-jr-fr" TVG_NAME="Disney Junior"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/disney-jr-fr.png" TVG-GROUP="Francophone" ,Disney Junior
+udp://@239.255.1.38:1234	
+#EXTINF:-1 TVG-ID="automoto-la-chaine-fr" TVG_NAME="AutoMoto"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/automoto-la-chaine-fr.png" TVG-GROUP="Francophone" ,AutoMoto
+udp://@239.255.1.37:1234	
+#EXTINF:-1 TVG-ID="tmc-fr" TVG_NAME="TMC"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/tmc-fr.png" TVG-GROUP="Francophone" ,TMC
+udp://@239.255.1.27:1234	
+#EXTINF:-1 TVG-ID="tf1-series-films-fr" TVG_NAME="TF1 Séries films"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/tf1-series-films-fr.png" TVG-GROUP="Francophone" ,TF1 Séries films
+udp://@239.255.1.26:1234	
+#EXTINF:-1 TVG-ID="planete-plus-crime-fr" TVG_NAME="Planète+ Crime"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/planete-plus-crime-fr.png" TVG-GROUP="Francophone" ,Planète+ Crime
+udp://@239.255.1.24:1234	
+#EXTINF:-1 TVG-ID="infosport-plus-fr" TVG_NAME="InfoSport+"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/infosport-plus-fr.png" TVG-GROUP="Francophone" ,InfoSport+
+udp://@239.255.1.23:1234	
+#EXTINF:-1 TVG-ID="canal-z-be" TVG_NAME="Canal Z"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/canal-z-be.png" TVG-GROUP="Francophone" ,Canal Z
+udp://@239.255.1.22:1234	
+#EXTINF:-1 TVG-ID="euro-news-int" TVG_NAME="Euronews"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/international/euro-news-int.png" TVG-GROUP="Francophone" ,Euronews
+udp://@239.255.1.21:1234	
+#EXTINF:-1 TVG-ID="lci-fr" TVG_NAME="LCI"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/lci-fr.png" TVG-GROUP="Francophone" ,LCI
+udp://@239.255.1.20:1234	
+#EXTINF:-1 TVG-ID="france-24-fr" TVG_NAME="France 24"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/france-24-fr.png" TVG-GROUP="Francophone" ,France 24
+udp://@239.255.1.19:1234	
+#EXTINF:-1 TVG-ID="c8-fr" TVG_NAME="C8"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/c8-fr.png" TVG-GROUP="Francophone" ,C8
+udp://@239.255.1.17:1234	
+#EXTINF:-1 TVG-ID="ushuaia-tv-fr" TVG_NAME="Ushuaïa TV"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/ushuaia-tv-fr.png" TVG-GROUP="Francophone" ,Ushuaïa TV
+udp://@239.255.1.15:1234	
+#EXTINF:-1 TVG-ID="niclelodeon-fr" TVG_NAME="Nickelodeon"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/niclelodeon-fr.png" TVG-GROUP="Francophone" ,Nickelodeon
+udp://@239.255.1.12:1234	
+#EXTINF:-1 TVG-ID="13eme-rue-be" TVG_NAME="13ème Rue"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/belgium/13eme-rue-be.png" TVG-GROUP="Francophone" ,13ème Rue
+udp://@239.255.1.9:1234	
+#EXTINF:-1 TVG-ID="fr_032" TVG_NAME="TV Breizh"" TVG_LOGO="https://github.com/tv-logo/tv-logos/blob/308c8c5f45b96d035c13e52332883e4abda79040/countries/france/fr_032.png" TVG-GROUP="Francophone" ,TV Breizh
+udp://@239.255.1.25:1234	

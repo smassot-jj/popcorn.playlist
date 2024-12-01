@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="udpTvFrancophones",UDPTvFrancophones
+https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv_chuliege_fraiture_francophones.m3u
+#EXTINF:-1 tvg-id="udpTvDivers",UDPTvDivers
+https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/tv_chuliege_fraiture_divers.m3u
+
+
