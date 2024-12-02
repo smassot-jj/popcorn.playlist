@@ -1,0 +1,39 @@
+#EXTM3U	
+#EXTINF:-1 TVG-ID="la-premiere-be" TVG_NAME="La Première"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/belgium/la-premiere-be.png" TVG-GROUP="Radios" RADIO="true" ,La Première 
+http://192.168.101.76/transcode/transcode.php?url=http://radios.rtbf.be/laprem1ere-128.mp3
+#EXTINF:-1 TVG-ID="classic-21-be" TVG_NAME="Classic 21"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/belgium/classic-21-be.png" TVG-GROUP="Radios" RADIO="true" ,Classic 21 
+http://192.168.101.76/transcode/transcode.php?url=https://radios.rtbf.be/classic21-128.mp3
+#EXTINF:-1 TVG-ID="bel-rtl-be" TVG_NAME="Bel RTL"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/belgium/bel-rtl-be.png" TVG-GROUP="Radios" RADIO="true" ,Bel RTL 
+http://audiostream.rtl.be/belrtl128
+#EXTINF:-1 TVG-ID="contact-be" TVG_NAME="Contact"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/belgium/contact-be.png" TVG-GROUP="Radios" RADIO="true" ,Contact 
+http://audiostream.rtl.be/contactfr192
+#EXTINF:-1 TVG-ID="vivacite-be" TVG_NAME="Vivacité"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/belgium/vivacite-be.png" TVG-GROUP="Radios" RADIO="true" ,Vivacité 
+http://192.168.101.76/transcode/transcode.php?url=http://radios.rtbf.be/vivaliege-128.mp3
+#EXTINF:-1 TVG-ID="dh-be" TVG_NAME="DH"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/belgium/dh-be.png" TVG-GROUP="Radios" RADIO="true" ,DH 
+http://stream.rcs.revma.com/anew1ctrgzzuv 
+#EXTINF:-1 TVG-ID="musiq3-be" TVG_NAME="Musiq3"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/belgium/musiq3-be.png" TVG-GROUP="Radios" RADIO="true" ,Musiq3 
+http://192.168.101.76/transcode/transcode.php?url=http://radios.rtbf.be/musiq3-128.mp3
+#EXTINF:-1 TVG-ID="mint-be" TVG_NAME="Mint"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/belgium/mint-be.png" TVG-GROUP="Radios" RADIO="true" ,Mint 
+http://mint.ice.infomaniak.ch/mint-mp3-128.mp3
+#EXTINF:-1 TVG-ID="fun-radio-fr" TVG_NAME="Fun Radio"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/fun-radio-fr.png" TVG-GROUP="Radios" RADIO="true" ,Fun Radio 
+http://live.funradio.be/funradiobe-high.mp3
+#EXTINF:-1 TVG-ID="rfm-fr" TVG_NAME="RFM"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/rfm-fr.png" TVG-GROUP="Radios" RADIO="true" ,RFM 
+http://192.168.101.76/transcode/transcode.php?url=http://ais-live.cloud-services.paris/rfm.mp3
+#EXTINF:-1 TVG-ID="rtl-fr" TVG_NAME="RTL"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/rtl-fr.png" TVG-GROUP="Radios" RADIO="true" ,RTL 
+http://streaming.radio.rtl.fr/rtl-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
+#EXTINF:-1 TVG-ID="rmc-fr" TVG_NAME="RMC"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/rmc-fr.png" TVG-GROUP="Radios" RADIO="true" ,RMC 
+https://audio.bfmtv.com/rmcradio_128.mp3
+#EXTINF:-1 TVG-ID="france-inter-fr" TVG_NAME="France Inter"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/france-inter-fr.png" TVG-GROUP="Radios" RADIO="true" ,France Inter 
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+#EXTINF:-1 TVG-ID="rtl2-fr" TVG_NAME="RTL2"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/rtl2-fr.png" TVG-GROUP="Radios" RADIO="true" ,RTL2 
+http://streaming.radio.rtl2.fr:80/rtl2-1-44-96
+#EXTINF:-1 TVG-ID="rire-et-chansons-fr" TVG_NAME="Rire et chansons"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/rire-et-chansons-fr.png" TVG-GROUP="Radios" RADIO="true" ,Rire et chansons 
+http://172.20.23.175/cms_fe/tools/transcode.php?url=http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3
+#EXTINF:-1 TVG-ID="le-mouv-fr" TVG_NAME="Le Mouv"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/le-mouv-fr.png" TVG-GROUP="Radios" RADIO="true" ,Le Mouv 
+http://direct.mouv.fr/live/mouv-midfi.mp3
+#EXTINF:-1 TVG-ID="nostalgie-fr" TVG_NAME="Nostalgie"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/nostalgie-fr.png" TVG-GROUP="Radios" RADIO="true" ,Nostalgie 
+https://streamingp.shoutcast.com/NostalgiePremium-mp3
+#EXTINF:-1 TVG-ID="france-info-fr" TVG_NAME="France Info"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/france-info-fr.png" TVG-GROUP="Radios" RADIO="true" ,France Info 
+http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
+#EXTINF:-1 TVG-ID="radio-classique-fr" TVG_NAME="Radio classique"" TVG_LOGO="https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logo/countries/france/radio-classique-fr.png" TVG-GROUP="Radios" RADIO="true" ,Radio classique 
+http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
