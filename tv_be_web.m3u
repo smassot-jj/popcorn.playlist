@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr",AfricaNews Français (720p)
+https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVFamily.us",AFV Family
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BelRTL.be",Bel RTL (1080p)
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="BAMTV.be",Bel'Afrika Media TV (1080p)
+https://goccn.cloud/hls/belafrikatv/index.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-481.png" group-title="TNT",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1073.png" group-title="TNT",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV
+https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BX1.be",BX1 (720p) [Not 24/7]
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr",Euronews
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLNLive.be",HLN Live (720p)
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+#EXTINF:-1 tvg-id="CFBT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" group-title="TNT",Ici Télé
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
+#EXTINF:-1 tvg-id="JoeFM.be",Joe FM (720p) [Not 24/7]
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+#EXTINF:-1 tvg-id="FRBC4200004XH" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC4200004XH_20221109T010508.png" group-title="TNT",L'Équipe - Live 1
+https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-id="FRBC4200005X2" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC4200005X2_20221109T010509.png" group-title="TNT",L'Équipe - Live 2
+https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-id="LN24.be",LN24
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+#EXTINF:-1 tvg-id="Matele.be",MaTele (1080p) [Not 24/7]
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-id="Notele.be",Notele (576p) [Not 24/7]
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="QMusic.be",Q-Music (Belgium) (1080p)
+https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/5f60a245c110454fba652900ecf30ea2/index.m3u8
+#EXTINF:-1 tvg-id="RadioContact.be",Radio Contact (1080p)
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.fr",Rakuten Family
+https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLTVI.be",RTL-TVI (1080p) [Not 24/7]
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportenfrance.com/android-icon-192x192.png" group-title="TNT",Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
+#EXTINF:-1 tvg-id="SterkTV.be",Stêrk TV (1080p)
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT",Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="TeleMB.be",Télé MB [Geo-blocked]
+https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
+#EXTINF:-1 tvg-id="Telesambre.be",Télésambre [Geo-blocked]
+https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f67c-de80-486b-9e60-9c72cb2782e2.isml/master.m3u8
+#EXTINF:-1 tvg-id="TVLux.be",TV Lux [Geo-blocked]
+https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
+#EXTINF:-1 tvg-id="TVCom.be",TVCom [Geo-blocked]
+https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
+#EXTINF:-1 tvg-id="Vedia.be",Vedia [Geo-blocked]
+https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
+#EXTINF:-1 tvg-id="VTM.be",VTM (720p)
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+#EXTINF:-1 tvg-id="VTM2.be",VTM 2 (720p)
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
+
