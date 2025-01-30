@@ -1,0 +1,112 @@
+[
+    {
+        "category": "internet",
+        "type": "link",
+        "title": "Google",
+        "description": "Le moteur de recherche le plus populaire.",
+        "image": "https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/internet-logos/google-int.png",
+        "package": "de.ozerov.fully",
+        "intent": "android.intent.action.VIEW",
+        "dataURI": "https://google.fr"
+    },
+    {
+        "category": "internet",
+        "type": "link",
+        "title": "Wikipedia",
+        "description": "L'encyclopédie libre, alimentée par les contributions.",
+        "image": "https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/internet-logos/wikipedia-int.png",
+        "package": "de.ozerov.fully",
+        "intent": "android.intent.action.VIEW",
+        "dataURI" : "https://www.wikipedia.org"
+    },
+    {
+        "category": "internet",
+        "type": "link",
+        "title": "YouTube",
+        "description": "Plateforme de partage de vidéos.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
+        "package": "de.ozerov.fully",
+        "intent": "android.intent.action.VIEW",
+        "dataURI" : "https://www.youtube.com"
+    },    
+    {
+        "category": "internet",
+        "type": "link",
+        "title": "Amazon",
+        "description": "Achat et vente en ligne parmi des millions de produits en stock.",
+        "image": "https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/internet-logos/amazon-int.png",
+        "package": "de.ozerov.fully",
+        "intent": "android.intent.action.VIEW",
+        "dataURI" : "https://www.amazon.fr"
+    },    
+    {
+        "category": "radio",
+        "type": "music",
+        "title": "Bel RTL",
+        "description": "Écoutez des radios du monde entier.",
+        "image": "https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/radio-logos/countries/belgium/bel-rtl-be.png",
+        "package": "",
+        "intent": "",
+        "dataURI": "http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3"
+    },    
+    {
+        "category": "apps",
+        "type": "application",
+        "title": "Mirror",
+        "description": "Parce que vous êtes la plus belle.",
+        "image": "https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/application-logos/com-smarttoolsdev-mirrorapp-app.png",
+        "package": "com.smarttoolsdev.mirrorapp",
+        "intent": "",
+        "dataURI": ""
+    },    
+    {
+        "category": "apps",
+        "type": "application",
+        "title": "Whiteboard",
+        "description": "Parce que vous ne vous rappelez de rien.",
+        "image": "https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/application-logos/cn-readpad-whiteboard-app.png",
+        "package": "cn.readpad.whiteboard",
+        "intent": "",
+        "dataURI": ""
+    },    
+    {
+        "category": "apps",
+        "type": "application",
+        "title": "Mirror",
+        "description": "Parce que vous êtes la plus belle.",
+        "image": "https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/application-logos/com-smarttoolsdev-mirrorapp-app.png",
+        "package": "com.smarttoolsdev.mirrorapp",
+        "intent": "",
+        "dataURI": ""
+    },    
+    {
+        "category": "vodmusic",
+        "type": "application",
+        "title": "Spotify",
+        "description": "Spotify.",
+        "image": "https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/application-logos/com-spotify-music-app.png",
+        "package": "com.spotify.music",
+        "intent": "",
+        "dataURI": ""
+    },    
+    {
+        "category": "vodmusic",
+        "type": "application",
+        "title": "Youtube",
+        "description": "Youtube.",
+        "image": "https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/application-logos/com.google.android.youtube-app.png",
+        "package": "com.google.android.youtube",
+        "intent": "",
+        "dataURI": ""
+    },    
+    {
+        "category": "vodmusic",
+        "type": "application",
+        "title": "Netflix",
+        "description": "Netflix.",
+        "image": "https://raw.githubusercontent.com/smassot-jj/playlist.popcorn/refs/heads/main/application-logos/com.netflix.mediaclient-app.png",
+        "package": "com.netflix.mediaclient",
+        "intent": "",
+        "dataURI": ""
+    }
+]
